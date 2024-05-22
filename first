@@ -2,6 +2,7 @@
 <html>
 <head>
 <script>
+conslo.log("hello world")
 
 </script>
 </head>
